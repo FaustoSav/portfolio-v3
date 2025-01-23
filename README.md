@@ -1,1 +1,1 @@
-Tercel portafolio que hago, el anterior me aburrio y quería algo mas simple
+Tercer portafolio que hago. El anterior me aburrió y quería algo mas simple.
