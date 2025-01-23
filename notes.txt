@@ -1,0 +1,5 @@
+1- En el correo, agregar un boton para copiarlo, seria bueno que tengoa un fondo distinto, tanto el email como el boton, o que el mail tenga un fondo y se copie directamente al tocarlo, agregaerle un cursor-pointer.
+
+2- Agregar button de cambio de idioma
+
+3- Agregar una seccion con link a dummyies proyectos o proyectos boludos, ponerle un titulo asi para dar a entender que son huevadas que hice cuando estaba estudiando

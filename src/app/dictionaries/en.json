@@ -1,0 +1,48 @@
+{
+    "titles": {
+        "currentSituation": "Currently",
+        "previousExperience": "Previous",
+        "education": "Education",
+        "interests": "Interests",
+        "contact": "Contact",
+        "additionalNetworks": "Additional Networks",
+        "homero": "This, Bart, is a crazy man"
+    },
+    "content": {
+        "name": "Fausto Savoya",
+        "location": "Buenos Aires, Argentina.",
+        "currentJob": {
+            "text": "Developer at ",
+            "link": "QGood"
+        },
+        "previousJobs": [
+            {
+                "text": "Developer and IT Support at ",
+                "link": "Transformaciones Digitales S.R.L"
+            },
+            {
+                "text": "Frontend Developer Freelancer at " ,
+                "link": "Daira IT"
+            }
+        ],
+        "education": "Programming Associate Degree | National Technological University.",
+        "interests": [
+            "User Interfaces",
+            "Web Development",
+            "Modern Technologies",
+            "Physical Activity"
+        ],
+        "contactText": "You can email me at savoyafausto@gmail.com or connect with me on ",
+        "networks": [
+            {
+                "name": "GitHub",
+                "link": "https://github.com/FaustoSav"
+            },
+            {
+                "name": "Instagram",
+                "link": "https://www.instagram.com/"
+            }
+            
+        ]
+    }
+}
